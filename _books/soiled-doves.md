@@ -13,16 +13,10 @@ paperback:
 ebook:
   price: $2.99
   isbn: 20
+  books2read: m2XLxG
 
-sold_by:
-  amazon:
-  ibooks: 1120968031
-  inktera: 1be0266c-56ae-49b4-9a8a-05dd9333ed20
-  kindle: B01GIPXMNC
-  kobo:
-  #nook: 2940158118685
-  scribd: 314829549
-  smashwords:
+sold_by: [amazon, ibooks, kindle, kobo, nook, other]
+
 ---
 
 As California’s Department of Thaumaturgy battles a deepening drought, a mysterious force limits the flow of magic in downtown Sacramento.

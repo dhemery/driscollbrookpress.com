@@ -12,16 +12,10 @@ paperback:
 ebook:
   price: $2.99
   isbn: 19
+  books2read: 3klNnm
 
-sold_by:
-  amazon:
-  ibooks:
-  inktera: 047047ac-41f8-4ed6-a8b1-965a909f6504
-  kindle: B013OA36I0
-  kobo:
-  nook: 2940152285772
-  scribd: 274935744
-  smashwords:
+sold_by: [amazon, ibooks, kindle, kobo, nook, other]
+
 ---
 
 Curtis Poole's estranged daughter dies, leaving him with fading memories of her and vivid memories of his actions that carved the decade-long rift in their relationship.

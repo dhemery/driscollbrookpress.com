@@ -12,16 +12,10 @@ paperback:
 ebook:
   price: $2.99
   isbn: 4
+  books2read: meKarb
 
-sold_by:
-  amazon:
-  ibooks:
-  inktera: 08ecd9f7-3a91-4459-a597-d16924dd0214
-  kindle: B00JDZJ6L2
-  kobo:
-  nook: 2940152290912
-  scribd: 275801758
-  smashwords:
+sold_by: [amazon, ibooks, kindle, kobo, nook, other]
+
 
 included_in:
   - winding-unwinding

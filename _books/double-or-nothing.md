@@ -12,16 +12,10 @@ paperback:
 ebook:
   price: $2.99
   isbn: 13
+  books2read: 4EYDE4
 
-sold_by:
-  amazon:
-  ibooks:
-  inktera: 65da842e-6a8c-4514-bfb3-a7b9a5c520f1
-  kindle: B00MZ8Y9AW
-  kobo:
-  nook: 2940152298727
-  scribd: 275771571
-  smashwords:
+sold_by: [amazon, ibooks, kindle, kobo, nook, other]
+
 
 ---
 

@@ -12,17 +12,9 @@ paperback:
 ebook:
   price: $5.99
   isbn: 11
+  books2read: 3RzBv3
 
-sold_by:
-  amazon:
-  bn:
-  ibooks:
-  inktera: 29a20d23-aa0e-4bfb-927f-bd810c372067
-  kindle: B00MG65WQ8
-  kobo:
-  nook: 2940152299311
-  scribd: 275814506
-  smashwords:
+sold_by: [amazon, bn, ibooks, kindle, kobo, nook, other]
 
 includes:
   - tailors-tears

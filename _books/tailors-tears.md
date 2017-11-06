@@ -12,16 +12,10 @@ paperback:
 ebook:
   price: $2.99
   isbn: 1
+  books2read: 3yp2Vb
 
-sold_by:
-  amazon:
-  ibooks:
-  inktera: 2d7ffc87-b8b8-41b0-a4d9-d2ff87162dc3
-  kindle: B00J45LIZ8
-  kobo:
-  nook: 2940152212136
-  scribd: 275233759
-  smashwords:
+sold_by: [amazon, ibooks, kindle, kobo, nook, other]
+
 
 included_in:
  - winding-unwinding
